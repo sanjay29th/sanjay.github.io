@@ -6,7 +6,9 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 - **LinkedIn**: [linkedin.com/sanjaysivasankarganesan](https://www.linkedin.com/in/sanjaysivasankarganesan/)
 
 ## Education
--M.S., Bioinformatics  | The University of Cork (October 2024)
+-M.S., Bioinformatics  | The University College Cork (October 2024)
+#
+
 -B.Tech , Biotechnology | Anna University  (June 2022)
 ## Work Experience
 
