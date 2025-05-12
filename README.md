@@ -38,10 +38,9 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ## Projects
 <img align="left" width="250" height="150" src="https://github.com/sanjay29th/Pics/blob/main/Bool%20SAT.jpg">**[Analysis of Machine Learning on Boolean Explainability (SAT) Dataset:](https://github.com/sanjay29th/sanjay)**
-
 Progressed a machine learning pipeline to analyze the SAT dataset using pre-processing techniques like scaling, feature selection, and cross-validation. Optimized models such as K-NN, Random Forest, and LightGBM to improve interpretability and predictive accuracy. Enhanced model explainability for Boolean classification tasks
 
-### Deep Learning for Image Classification and Music Generation: 
+# 
 <img align="left" width="250" height="150" src="https://github.com/sanjay29th/Pics/blob/main/Music%20Gneration.webp">**[Deep learning Music Generation](https://github.com/sanjay29th/Deep-Learning-Music-Generation)**
 Created CNNs for automated number classification, achieving 92% accuracy on handwritten digits. Implemented RNNs for music generation, producing coherent sequences with 80% melody coherence by training the model on diverse musical genres 
 
@@ -73,13 +72,11 @@ In this project I have used models such as RNN, LSTM, 1D-CNN to predict the engi
 Objective of this project is to perform predictive assesment on the GDP of India through an inferential analysis of various socio-economic factors. Various models are compared and Stepwise Regression model is implemented which resulted in 5.7% Test MSE.
 
 #
-
-
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/gdp.jpg"> **[What's the GDP of India?](https://github.com/sanjay29th/Loan-default-prediction)**
-
 In this project I applied various classification models such as Logistic Regression, Random Forest and LightGBM to detect consumers who will default the loan. SMOTE is used to combat class imbalance and LightGBM is implemented that resulted into the highest accuracy 98.89% and 0.99 F1 Score.
 
 <br />
+
 ## Micro Projects
 - ### Statistics and Machine Learning
     - [Genetic Algorithm](https://github.com/sanjay29th/Machine-learning-Microprojects/blob/main/genetic-algorithm.ipynb) : In this file, I have implemented simple genetic algorithm that finds out the list of numbers which equal to any specified number when summed together.
