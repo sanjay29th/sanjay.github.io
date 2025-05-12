@@ -16,21 +16,30 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 •Developed and deployed custom Bash scripts to automate genome processing tasks such as sequence extraction, annotation, and file organization, ensuring seamless 
  workflows for prophage detection.
+ 
 • Leveraged Bio python libraries to parse and analyse genomic data, performing calculations to assess prophage activity and provide actionable biological insights.
+
 • Designed and implemented modular, reusable scripts to enhance bioinformatics workflows, enabling streamlined prophage analysis and promoting reproducibility 
   across research projects.
+  
 • Ensured scalability and adaptability of bioinformatics tools by documenting processes and refining scripts to handle diverse datasets and research requirements.
 
 **Intern @ DLK Technology (September 2022 - March 2023)**
 
  •Gained hands-on expertise in managing and analysing datasets, directly contributing to the successful execution of two high-impact projects, improving project 
   efficiency by 20%.
+  
 • Facilitated seamless software implementation and testing, ensuring on-time delivery and enabling the successful adoption of IT solutions across departments.
+
 • Collaborated with cross-functional teams to gather and interpret application requirements, delivering actionable insights that enhanced project alignment and 
   reduced rework by 15%.
+  
 • Streamlined IT auditing processes, ensuring consistent service quality, compliance with standards, and a 10% improvement in operational efficiency.
+
 • Performed rigorous data validation and cleaning, enhancing the accuracy and reliability of datasets, which boosted reporting precision by 25%.
+
 • Addressed project challenges through teamwork and problem-solving, developing innovative solutions that improved software delivery timelines.
+
 • Delivered knowledge-sharing sessions and documentation, enabling a 30% reduction in onboarding time for new team members and fostering a collaborative environment
 
 ## Achievements
@@ -40,6 +49,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 ## Projects
 <img align="left" width="250" height="150" src="https://github.com/sanjay29th/Pics/blob/main/Bool%20SAT.jpg">**[Analysis of Machine Learning on Boolean Explainability (SAT) Dataset:](https://github.com/sanjay29th/sanjay)**
+
 Progressed a machine learning pipeline to analyze the SAT dataset using pre-processing techniques like scaling, feature selection, and cross-validation. Optimized models such as K-NN, Random Forest, and LightGBM to improve interpretability and predictive accuracy. Enhanced model explainability for Boolean classification tasks
 
 # 
